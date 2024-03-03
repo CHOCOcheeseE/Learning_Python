@@ -50,4 +50,4 @@ totalkredit = kreditpermatkul * 6
 
 totalipk = (totalalgoritma + totalperancanganobjek + totalkalkulus + totaletikaprofesi + totaldatabase + totalenglish) / totalkredit
 
-print(f"Indeks Prestasi Kumulatif (IPK) Anda adalah: {totalipk:.2f}")
+print(f"Indeks Prestasi Kumulatif (IPK) anda adalah: {totalipk:.2f}")
